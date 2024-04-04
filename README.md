@@ -41,9 +41,10 @@ I used HTML, CSS and a couple of images
 - **Float** CSS property for ONLY adapting big elements to text.
 - **Display: flow-root** To prevent float elements from overflowing the container. 
 ## Preview 
-<img style="text-align:center" src="https://github.com/AlexMakowiecki/unit-converter/assets/122258496/b850091f-3650-4658-aeff-b1c18d2847a7" width="500"/> 
+<img style="text-align:center" src="https://github.com/AlexMakowiecki/nft-site/assets/122258496/2cde9755-0fd6-47a4-964e-aa793892ac33" width="500"/> 
 
-## About Scrimba
+## About Scrimba!
+
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
 If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
